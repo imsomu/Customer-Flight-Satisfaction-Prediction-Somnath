@@ -7,7 +7,7 @@ The dataset consist of information of passengers bording and debording informati
 **Train dataset:**
 
  - The train set contains **83123** rows and **24** columns.
- -
+ 
 **Test Dataset:**
 
  - The test set contains **20781** rows and **23** columns.
